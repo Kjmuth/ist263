@@ -1,0 +1,21 @@
+html{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2{
+    color: red;
+}
+.special {color: purple}
+
+tr:nth-child(even) {
+    background-color: #ff0000;
+}
+tr:nth-child(odd) {
+    background-color: #ff7b00;
+}
+h1{
+    font-size: 3em;
+}
+h2{
+    font: 1.5em;
+}

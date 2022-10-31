@@ -1,0 +1,57 @@
+html{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color:	#000E54;
+    color:	#FFFFFF;   
+}
+
+main{
+    color: #000000;
+    background-color: #ffffff;
+}
+
+a:hover{
+    color: 	#FF0000
+}
+
+nav{
+    background-color: #F76900;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+nav a:hover {
+    background-color: #FF0000;
+}
+.banner{
+    float: left; margin-right: 10px;
+}
+.clear{
+    clear: both;
+}
+.quote{
+    float: right;
+}
+.cc{
+    float: left;
+}
+
+.top{
+    display: flex;
+}
+.bottom{
+    display: flex;
+}
+.name_addy{
+    flex: 1;
+}
+.email{
+    flex: 2;
+}
+.form{
+    flex: 1;
+}
+.map{
+    flex: 1;
+}

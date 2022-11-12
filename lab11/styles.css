@@ -3,13 +3,11 @@ html{
 }
 
 body{
-    background-color:	#000E54;
-    color: #000000;   
+    background-color:	#000E54;   
 }
 
 main{
-    color: #000000;
-    background-color: #ffffff;
+    color: #ffffff;
 }
 
 a:hover{
@@ -21,11 +19,14 @@ a:visited{
 a {
     color: #000000;
 }
-
+footer{
+    color: #ffffff;
+}
 nav{
     background-color: #F76900;
     padding: 10px;
     margin-bottom: 30px;
+    color: #000000;
 }
 nav a:hover {
     background-color: #FF0000;
@@ -39,6 +40,12 @@ nav a:hover {
 }
 .quote{
     float: right;
+}
+#content{
+    color: #ffffff;
+}
+#h2_index{
+    color: #ffffff;
 }
 .cc{
     float: left;

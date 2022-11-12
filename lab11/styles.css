@@ -1,0 +1,77 @@
+html{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color:	#000E54;
+    color:	#FFFFFF;   
+}
+
+main{
+    color: #000000;
+    background-color: #ffffff;
+}
+
+a:hover{
+    color: 	#FF0000
+}
+
+nav{
+    background-color: #F76900;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+nav a:hover {
+    background-color: #FF0000;
+}
+.banner{
+    float: left; margin-right: 10px;
+    max-width: 100%;
+}
+.clear{
+    clear: both;
+}
+.quote{
+    float: right;
+}
+.cc{
+    float: left;
+}
+
+.top{
+    display: flex;
+}
+.bottom{
+    display: flex;
+    flex-wrap: wrap;
+}
+.name_addy{
+    flex: 1;
+}
+.email{
+    flex: 2;
+}
+.form{
+    flex: 1;
+}
+.map{
+    flex: 1;
+}
+nav{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: space-around;
+}
+@media only screen and (max-width: 600px){
+    .pipe{display: none;}
+
+}
+.skip{
+    background-color: #ffa500;
+    padding: 5px;
+    border: 1px solid #000000;
+    position: absolute;
+    top: 30px;
+    left: 10px;
+}

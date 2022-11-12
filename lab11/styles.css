@@ -15,6 +15,12 @@ main{
 a:hover{
     color: 	#FF0000
 }
+a:visited{
+    color: #000000;
+}
+a {
+    color: #000000;
+}
 
 nav{
     background-color: #F76900;
@@ -68,7 +74,7 @@ nav{
 
 }
 .skip{
-    background-color: #ffa500;
+    background-color: #04ff00;
     padding: 5px;
     border: 1px solid #000000;
     position: absolute;

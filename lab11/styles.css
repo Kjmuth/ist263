@@ -53,19 +53,23 @@ nav a:hover {
 
 .top{
     display: flex;
+    color: #ffffff;
 }
 .bottom{
     display: flex;
     flex-wrap: wrap;
+    color: #ffffff;
 }
 .name_addy{
     flex: 1;
+    color: #ffffff;
 }
 .email{
     flex: 2;
 }
 .form{
     flex: 1;
+    color: #ffffff;
 }
 .map{
     flex: 1;

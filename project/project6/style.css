@@ -21,3 +21,11 @@ ul {
   li a:hover {
     background-color: #000582;
   }
+  .skip{
+    background-color: #04ff00;
+    padding: 5px;
+    border: 1px solid #000000;
+    position: absolute;
+    top: 30px;
+    left: 10px;
+}
